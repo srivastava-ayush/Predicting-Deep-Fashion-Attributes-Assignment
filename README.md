@@ -1,0 +1,1 @@
+# Predicting-Deep-Fashion-Attributes-Assignment
